@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  BetterChallenges
-//
-//  Created by Atinderpaul Kanwar on 2025-11-19.
-//
-
 import SwiftUI
 import UIKit
 

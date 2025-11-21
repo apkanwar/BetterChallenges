@@ -1,10 +1,3 @@
-//
-//  Models.swift
-//  BetterChallenges
-//
-//  Created by Codex on 2025-11-19.
-//
-
 import Foundation
 import SwiftUI
 

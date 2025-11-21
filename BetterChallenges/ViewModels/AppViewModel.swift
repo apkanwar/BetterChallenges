@@ -1,10 +1,3 @@
-//
-//  AppViewModel.swift
-//  BetterChallenges
-//
-//  Created by Codex on 2025-11-19.
-//
-
 import Combine
 import CoreData
 import Foundation

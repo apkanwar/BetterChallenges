@@ -1,10 +1,3 @@
-//
-//  CoreDataModels.swift
-//  BetterChallenges
-//
-//  Created by Codex on 2025-11-20.
-//
-
 import CoreData
 import Foundation
 
