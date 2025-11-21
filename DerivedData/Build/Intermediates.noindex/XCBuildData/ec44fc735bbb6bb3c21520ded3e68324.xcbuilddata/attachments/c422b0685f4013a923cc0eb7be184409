@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallenges-primary.dia",
+    "emit-module-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallenges-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallenges-primary-emit-module.dia",
+    "pch" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallenges-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallenges-primary.swiftdeps"
+  },
+  "/Users/atinderpaulk/Desktop/Code/BetterChallenges/BetterChallenges/AppViewModel.swift" : {
+    "const-values" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/AppViewModel.swiftconstvalues",
+    "dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/AppViewModel.d",
+    "diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/AppViewModel.dia",
+    "index-unit-output-path" : "/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/AppViewModel.o",
+    "llvm-bc" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/AppViewModel.bc",
+    "object" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/AppViewModel.o",
+    "swift-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/AppViewModel.swiftdeps",
+    "swiftmodule" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/AppViewModel~partial.swiftmodule"
+  },
+  "/Users/atinderpaulk/Desktop/Code/BetterChallenges/BetterChallenges/BetterChallengesApp.swift" : {
+    "const-values" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallengesApp.swiftconstvalues",
+    "dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallengesApp.d",
+    "diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallengesApp.dia",
+    "index-unit-output-path" : "/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallengesApp.o",
+    "llvm-bc" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallengesApp.bc",
+    "object" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallengesApp.o",
+    "swift-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallengesApp.swiftdeps",
+    "swiftmodule" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/BetterChallengesApp~partial.swiftmodule"
+  },
+  "/Users/atinderpaulk/Desktop/Code/BetterChallenges/BetterChallenges/ContactsManager.swift" : {
+    "const-values" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContactsManager.swiftconstvalues",
+    "dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContactsManager.d",
+    "diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContactsManager.dia",
+    "index-unit-output-path" : "/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContactsManager.o",
+    "llvm-bc" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContactsManager.bc",
+    "object" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContactsManager.o",
+    "swift-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContactsManager.swiftdeps",
+    "swiftmodule" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContactsManager~partial.swiftmodule"
+  },
+  "/Users/atinderpaulk/Desktop/Code/BetterChallenges/BetterChallenges/ContentView.swift" : {
+    "const-values" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/atinderpaulk/Desktop/Code/BetterChallenges/BetterChallenges/HealthKitManager.swift" : {
+    "const-values" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/HealthKitManager.swiftconstvalues",
+    "dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/HealthKitManager.d",
+    "diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/HealthKitManager.dia",
+    "index-unit-output-path" : "/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/HealthKitManager.o",
+    "llvm-bc" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/HealthKitManager.bc",
+    "object" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/HealthKitManager.o",
+    "swift-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/HealthKitManager.swiftdeps",
+    "swiftmodule" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/HealthKitManager~partial.swiftmodule"
+  },
+  "/Users/atinderpaulk/Desktop/Code/BetterChallenges/BetterChallenges/Models.swift" : {
+    "const-values" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/Models.swiftconstvalues",
+    "dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/Models.d",
+    "diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/Models.dia",
+    "index-unit-output-path" : "/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/Models.o",
+    "llvm-bc" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/Models.bc",
+    "object" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/Models.o",
+    "swift-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/Models.swiftdeps",
+    "swiftmodule" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/Models~partial.swiftmodule"
+  },
+  "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/BetterChallenges.build/Debug-iphonesimulator/BetterChallenges.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

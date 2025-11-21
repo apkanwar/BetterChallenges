@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="24B83" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ChallengeEntity" representedClassName="ChallengeEntity" syncable="YES">
+        <attribute name="challengeDescription" optional="YES" attributeType="String" usesScalarValueType="NO"/>
+        <attribute name="endDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="maxDailyPoints" optional="NO" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="startDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="title" optional="YES" attributeType="String" usesScalarValueType="NO"/>
+        <relationship name="participants" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="ParticipantEntity" inverseName="challenge" inverseEntity="ParticipantEntity"/>
+    </entity>
+    <entity name="ParticipantEntity" representedClassName="ParticipantEntity" syncable="YES">
+        <attribute name="accentBlue" optional="NO" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="accentGreen" optional="NO" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="accentOpacity" optional="NO" attributeType="Double" defaultValueString="1" usesScalarValueType="YES"/>
+        <attribute name="accentRed" optional="NO" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="accumulatedPoints" optional="NO" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="contactID" optional="YES" attributeType="String" usesScalarValueType="NO"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="isCurrentUser" optional="NO" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" usesScalarValueType="NO"/>
+        <relationship name="challenge" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ChallengeEntity" inverseName="participants" inverseEntity="ChallengeEntity"/>
+    </entity>
+    <elements>
+        <element name="ChallengeEntity" positionX="-63" positionY="-18" width="128" height="150"/>
+        <element name="ParticipantEntity" positionX="190" positionY="-18" width="128" height="210"/>
+    </elements>
+</model>

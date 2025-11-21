@@ -1,0 +1,464 @@
+{
+  "source": "/Users/atinderpaulk/Desktop/Code/BetterChallenges/BetterChallenges/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Better Challenges",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Heads up",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Active challenges",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "You do not have any active group challenges. Start a new one to see it here.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "View completed challenges",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld pts",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today's Rings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld pts / day",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "Daily cap",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect to Apple Health",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Authorize Better Challenges to read your Move, Exercise, and Stand rings so we can score each challenge.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Grant Health Access",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 215
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld pts",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "Active",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Completed",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld pts",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ leads",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 264
+        }
+      },
+      {
+        "comment": "",
+        "key": "+%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 297
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 294
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today's leaderboard",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 334
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total points",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 340
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld pts max per day",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 323
+        }
+      },
+      {
+        "comment": "",
+        "key": "Overview",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 331
+        }
+      },
+      {
+        "comment": "",
+        "key": "Invite",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 350
+        }
+      },
+      {
+        "comment": "",
+        "key": "Completed Challenges",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 397
+        }
+      },
+      {
+        "comment": "",
+        "key": "You have not completed any challenges yet.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 380
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld pts",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 424
+        }
+      },
+      {
+        "comment": "",
+        "key": "You",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 427
+        }
+      },
+      {
+        "comment": "",
+        "key": "Invite friends",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 464
+        }
+      },
+      {
+        "comment": "",
+        "key": "Contacts",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 457
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick up to %lld more friends. A challenge supports 2-8 participants.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 459
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 467
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send Invites",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 472
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type a name, email, or phone number to find contacts.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 502
+        }
+      },
+      {
+        "comment": "",
+        "key": "No contacts match \"%@\".",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 507
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search contacts",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 490
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fetching your contacts...",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 495
+        }
+      },
+      {
+        "comment": "",
+        "key": "New challenge",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 635
+        }
+      },
+      {
+        "comment": "",
+        "key": "Friends vs. Fam",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 604
+        }
+      },
+      {
+        "comment": "",
+        "key": "Optional description",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 605
+        }
+      },
+      {
+        "comment": "",
+        "key": "Challenge Name",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 607
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld days",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 611
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start date",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 612
+        }
+      },
+      {
+        "comment": "",
+        "key": "Duration",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 614
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld pts / day",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 618
+        }
+      },
+      {
+        "comment": "",
+        "key": "Daily Points Allowed",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 620
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apple Fitness caps move points at 600. Customize the number to fit your group challenge.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 622
+        }
+      },
+      {
+        "comment": "",
+        "key": "No contacts found.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 692
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading contacts...",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 690
+        }
+      },
+      {
+        "comment": "",
+        "key": "Invite contacts",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 629
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick at least one friend and no more than seven to stay within the 2-8 participant requirement.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 631
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 638
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 643
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type to search your contacts. Only matching results are shown here.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 699
+        }
+      },
+      {
+        "comment": "",
+        "key": "No contacts match \"%@\".",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 703
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search contacts",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 696
+        }
+      }
+    ]
+  },
+  "version": 1
+}

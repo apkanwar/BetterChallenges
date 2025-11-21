@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c543d68b917f6874a4d96407725fcdab5c58449c86604bb25114fa1f0c0deddc"
+    }
+  ],
+  "containerPath" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/BetterChallenges.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator26.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphonesimulator26.1"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/atinderpaulk/Desktop/Code/BetterChallenges/DerivedData/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

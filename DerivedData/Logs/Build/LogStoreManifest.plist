@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>7828AA06-AFC3-4F0C-A323-7588AB213BE0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7828AA06-AFC3-4F0C-A323-7588AB213BE0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BetterChallenges project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BetterChallenges</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BetterChallenges with scheme BetterChallenges and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>785310365.92316699</real>
+			<key>timeStoppedRecording</key>
+			<real>785310373.86713004</real>
+			<key>title</key>
+			<string>Building project BetterChallenges with scheme BetterChallenges and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7828AA06-AFC3-4F0C-A323-7588AB213BE0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
