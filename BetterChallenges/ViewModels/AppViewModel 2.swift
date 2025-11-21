@@ -27,7 +27,7 @@ final class AppViewModel: ObservableObject {
     private let currentParticipantID: UUID
     private static let currentUserIDKey = "BetterChallenges_CurrentUserID"
 
-    init(persistenceController: PersistenceController = .shared) {
+    init(persistenceController: PersistenceController) {
         self.persistence = persistenceController
         self.context = persistenceController.container.viewContext
         if let stored = UserDefaults.standard.string(forKey: Self.currentUserIDKey),
@@ -46,6 +46,10 @@ final class AppViewModel: ObservableObject {
                 await refreshHealthData()
             }
         }
+    }
+    
+    convenience init() {
+        self.init(persistenceController: .shared)
     }
 
     var activeChallenges: [Challenge] {
@@ -207,6 +211,7 @@ final class AppViewModel: ObservableObject {
     }
 
     private func persistAllChallenges() {
+        let snapshotChallenges = self.challenges
         context.performAndWait {
             let fetchRequest: NSFetchRequest<NSFetchRequestResult> = ChallengeEntity.fetchRequest()
             let deleteRequest = NSBatchDeleteRequest(fetchRequest: fetchRequest)
@@ -218,7 +223,7 @@ final class AppViewModel: ObservableObject {
                 }
             }
 
-            for challenge in challenges {
+            for challenge in snapshotChallenges {
                 challenge.insert(into: context)
             }
 
@@ -226,3 +231,4 @@ final class AppViewModel: ObservableObject {
         }
     }
 }
+
